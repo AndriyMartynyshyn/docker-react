@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Andrew is studing Docker
+          Learn React, but Andrew is studing Docker
         </a>
       </header>
     </div>
